@@ -1,0 +1,12 @@
+Stay Safe Online Checklist:
+
+- Use strong and unique passwords
+- Enable two-factor authentication (2FA)
+- Do not click on suspicious links or emails
+- Always check website URLs carefully
+- Never share OTP, PIN, or bank details with anyone
+- Verify UPI payment requests before accepting
+- Use official apps for online transactions
+- Keep your devices updated with security patches
+- Avoid using public Wi-Fi for financial transactions
+- Report cybercrime on cybercrime.gov.in or call 1930
